@@ -1,0 +1,49 @@
+.x1{
+    color:brown;
+    font-size: 50px;
+    background-color: white;
+    text-align: center;
+}
+
+.x2{
+    background-color: darkgoldenrod;
+    padding:15px;
+}
+
+.x3{
+    background-color: darkgoldenrod;
+    padding:15px;
+}
+
+.x4{
+    background-color: darkgoldenrod;
+    padding:15px;
+}
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding:15px;
+}
+nav{
+    text-align: center;
+    background-color: darkgoldenrod;
+    padding: 10px;
+}
+nav a{
+    text-decoration: none;
+}
+.conteudoesquerda{
+    width:50%;
+
+}
+.imagemdireita{
+    width: 50%;
+    float: right;
+}
+.imagem{
+    float: right;
+    width: 700px;
+    height: 600px;
+    margin-top: -80%;
+ 
+}
